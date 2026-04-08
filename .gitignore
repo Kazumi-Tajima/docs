@@ -1,0 +1,7 @@
+node_modules/
+logs/
+*.log
+.wdio-*
+allure-results/
+allure-report/
+docs/evidence/*/
